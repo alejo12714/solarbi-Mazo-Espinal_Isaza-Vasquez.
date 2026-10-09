@@ -1,0 +1,15 @@
+# Archivo de credenciales (NUNCA subir a GitHub)
+.env
+
+# Entornos virtuales de Python
+.venv/
+venv/
+env/
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+
+# Datos crudos o archivos pesados temporales
+data/bronze/
+*.log
