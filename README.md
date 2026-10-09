@@ -65,7 +65,7 @@ py etl/run_etl.py
 2. Apunta a la tabla `dwh.fact_energia_dia` para construir los indicadores de Yield y Ahorro financiero.
 
 ________________________________________________
-Archivo | Responsable                           
+###Archivo | Responsable                           
 PDF: trabajo en conjunto de los dos integrantes 
 Creacion Inicial del repositorio: Diego Mazo   
 Data Silver: Javier Isaza                     
