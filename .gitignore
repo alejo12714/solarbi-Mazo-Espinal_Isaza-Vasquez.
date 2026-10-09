@@ -9,7 +9,3 @@ env/
 # Archivos de caché de Python
 __pycache__/
 *.pyc
-
-# Datos crudos o archivos pesados temporales
-data/bronze/
-*.log
