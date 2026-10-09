@@ -52,7 +52,7 @@ Corre el script principal para generar los datos crudos (Bronze), aplicar la lim
 
 py etl/run_etl.py
 
-###6. Configuración de Visualizaciones
+### 6. Configuración de Visualizaciones
 
 * **Grafana:**
 1. Inicia sesión en Grafana (`http://localhost:3000`).
